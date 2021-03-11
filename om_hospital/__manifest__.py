@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Hospital Management',
-    'version': '1.0',
-    'summary': 'Hospital Management Software',
+    'version': '2.0',
+    'summary': 'Hospital Management Software and tools',
     'sequence': 10,
     'description': """Hospital Management Software""",
     'category': 'Productivity',
